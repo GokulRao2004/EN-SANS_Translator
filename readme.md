@@ -8,7 +8,7 @@ git clone https://github.com/VarunGumma/IndicTransToolkit
 
 ### Install the required packages:
 
-pip install ./IndicTransToolkit
+pip install ./IndicTransToolkit <br/>
 pip install torch transformers gradio
 
 
